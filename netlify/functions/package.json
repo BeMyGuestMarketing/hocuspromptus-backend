@@ -1,0 +1,8 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "Netlify functions package",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
